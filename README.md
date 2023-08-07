@@ -1,7 +1,6 @@
 
 # Sentiment Analysis with NLP
 
-
 ## Introduction
 
 - Sentiment analysis involves classifying text data into positive, negative or neutral sentiment categories. 
